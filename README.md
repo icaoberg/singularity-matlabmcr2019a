@@ -21,6 +21,4 @@ Singularity recipe for [Matlab MCR 2019a](https://www.mathworks.com/products/com
 I am nothing but a humble programmer creating the container for this wonderful app.
 
 ---
-[![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
-
 Copyright © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at [Carnegie Mellon University](http://www.cmu.edu)
