@@ -24,4 +24,4 @@ I am nothing but a humble programmer creating the container for this wonderful a
 ---
 [![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
 
-Copyleft © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
+Copyright © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at [Carnegie Mellon University](http://www.cmu.edu)
