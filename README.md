@@ -1,6 +1,5 @@
 # matlabmcr2019a
 [![Hosted](https://img.shields.io/badge/hosted-sylabs.io-red.svg)](https://cloud.sylabs.io/library/icaoberg/default/matlabmcr2019a)
-[![Build Status](https://travis-ci.org/icaoberg/singularity-matlabmcr2019a.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-matlabmcr2019a)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/issues)
 [![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/network)
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/stargazers)
